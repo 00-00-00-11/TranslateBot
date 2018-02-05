@@ -1,0 +1,24 @@
+{
+  "name": "TranslateBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haxified1/TranslateBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haxified1/TranslateBot/issues"
+  },
+  "homepage": "https://github.com/Haxified1/TranslateBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "google-translate": "^2.0.5"
+  }
+}
