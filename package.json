@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Haxified1/TranslateBot#readme",
   "dependencies": {
     "discord.js": "^11.3.0",
-    "google-translate": "^2.0.5"
+    "google-translate": "^2.2.0"
   }
 }
